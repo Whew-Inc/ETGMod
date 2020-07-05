@@ -190,8 +190,6 @@
     <Compile Include="src\Patches\patch_SteamManager.cs" />
     <Compile Include="src\Core\Time.cs" />
     <Compile Include="src\Patches\patch_BraveTime.cs" />
-    <Compile Include="src\Guns\TestGunController.cs" />
-    <Compile Include="src\Guns\BalloonGunController.cs" />
     <Compile Include="src\Core\Objects.cs" />
     <Compile Include="src\ETGGUI\Repo\ModRepo.cs" />
     <Compile Include="src\ETGGUI\Repo\RemoteMod.cs" />
@@ -242,120 +240,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Content\etgmod\logo.png">
       <LogicalName>Content/etgmod/logo.png</LogicalName>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Content\sprites\IntroSequenceCollection_01\logo_logo_pound_006.png">
-      <LogicalName>Content/sprites/IntroSequenceCollection_01/logo_logo_pound_006.png</LogicalName>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Content\sprites\IntroSequenceCollection_01\logo_logo_pound_007.png">
-      <LogicalName>Content/sprites/IntroSequenceCollection_01/logo_logo_pound_007.png</LogicalName>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Content\sprites\IntroSequenceCollection_01\logo_logo_pound_008.png">
-      <LogicalName>Content/sprites/IntroSequenceCollection_01/logo_logo_pound_008.png</LogicalName>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Content\sprites\IntroSequenceCollection_01\logo_logo_pound_009.png">
-      <LogicalName>Content/sprites/IntroSequenceCollection_01/logo_logo_pound_009.png</LogicalName>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Content\sprites\IntroSequenceCollection_01\logo_logo_pound_010.png">
-      <LogicalName>Content/sprites/IntroSequenceCollection_01/logo_logo_pound_010.png</LogicalName>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Content\sprites\IntroSequenceCollection_01\logo_logo_pound_011.png">
-      <LogicalName>Content/sprites/IntroSequenceCollection_01/logo_logo_pound_011.png</LogicalName>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Content\sprites\IntroSequenceCollection_01\logo_logo_pound_012.png">
-      <LogicalName>Content/sprites/IntroSequenceCollection_01/logo_logo_pound_012.png</LogicalName>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Content\sprites\IntroSequenceCollection_01\logo_roguego_014.png">
-      <LogicalName>Content/sprites/IntroSequenceCollection_01/logo_roguego_014.png</LogicalName>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Content\sprites\IntroSequenceCollection_01\logo_roguego_015.png">
-      <LogicalName>Content/sprites/IntroSequenceCollection_01/logo_roguego_015.png</LogicalName>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Content\sprites\IntroSequenceCollection_01\logo_roguego_016.png">
-      <LogicalName>Content/sprites/IntroSequenceCollection_01/logo_roguego_016.png</LogicalName>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Content\sprites\IntroSequenceCollection_01\logo_roguego_017.png">
-      <LogicalName>Content/sprites/IntroSequenceCollection_01/logo_roguego_017.png</LogicalName>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Content\sprites\IntroSequenceCollection_01\logo_roguego_018.png">
-      <LogicalName>Content/sprites/IntroSequenceCollection_01/logo_roguego_018.png</LogicalName>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Content\sprites\IntroSequenceCollection_01\logo_roguego_019.png">
-      <LogicalName>Content/sprites/IntroSequenceCollection_01/logo_roguego_019.png</LogicalName>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Content\sprites\IntroSequenceCollection_01\logo_roguego_020.png">
-      <LogicalName>Content/sprites/IntroSequenceCollection_01/logo_roguego_020.png</LogicalName>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Content\sprites\Foyer_Collection\top_floor_001.png">
-      <LogicalName>Content/sprites/Foyer_Collection/top_floor_001.png</LogicalName>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Content\sprites\Ammonomicon Encounter Icon Collection\gshbd_fire_002.png">
-      <LogicalName>Content/sprites/Ammonomicon_Encounter_Icon_Collection/gshbd_fire_002.png</LogicalName>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Content\sprites\WeaponCollection\gshbd_fire_001.json">
-      <LogicalName>Content/sprites/WeaponCollection/gshbd_fire_001.json</LogicalName>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Content\sprites\WeaponCollection\gshbd_fire_001.png">
-      <LogicalName>Content/sprites/WeaponCollection/gshbd_fire_001.png</LogicalName>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Content\sprites\WeaponCollection\gshbd_fire_002.json">
-      <LogicalName>Content/sprites/WeaponCollection/gshbd_fire_002.json</LogicalName>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Content\sprites\WeaponCollection\gshbd_fire_002.png">
-      <LogicalName>Content/sprites/WeaponCollection/gshbd_fire_002.png</LogicalName>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Content\sprites\WeaponCollection\gshbd_fire_003.json">
-      <LogicalName>Content/sprites/WeaponCollection/gshbd_fire_003.json</LogicalName>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Content\sprites\WeaponCollection\gshbd_fire_003.png">
-      <LogicalName>Content/sprites/WeaponCollection/gshbd_fire_003.png</LogicalName>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Content\sprites\WeaponCollection\gshbd_fire_004.json">
-      <LogicalName>Content/sprites/WeaponCollection/gshbd_fire_004.json</LogicalName>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Content\sprites\WeaponCollection\gshbd_fire_004.png">
-      <LogicalName>Content/sprites/WeaponCollection/gshbd_fire_004.png</LogicalName>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Content\sprites\WeaponCollection\gshbd_idle_001.json">
-      <LogicalName>Content/sprites/WeaponCollection/gshbd_idle_001.json</LogicalName>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Content\sprites\WeaponCollection\gshbd_idle_001.png">
-      <LogicalName>Content/sprites/WeaponCollection/gshbd_idle_001.png</LogicalName>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Content\sprites\WeaponCollection\gshbd_idle_002.json">
-      <LogicalName>Content/sprites/WeaponCollection/gshbd_idle_002.json</LogicalName>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Content\sprites\WeaponCollection\gshbd_idle_002.png">
-      <LogicalName>Content/sprites/WeaponCollection/gshbd_idle_002.png</LogicalName>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Content\sprites\WeaponCollection\gshbd_idle_003.json">
-      <LogicalName>Content/sprites/WeaponCollection/gshbd_idle_003.json</LogicalName>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Content\sprites\WeaponCollection\gshbd_idle_003.png">
-      <LogicalName>Content/sprites/WeaponCollection/gshbd_idle_003.png</LogicalName>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Content\sprites\WeaponCollection\gshbd_idle_004.json">
-      <LogicalName>Content/sprites/WeaponCollection/gshbd_idle_004.json</LogicalName>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Content\sprites\WeaponCollection\gshbd_idle_004.png">
-      <LogicalName>Content/sprites/WeaponCollection/gshbd_idle_004.png</LogicalName>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Content\sprites\WeaponCollection\gshbd_intro_001.json">
-      <LogicalName>Content/sprites/WeaponCollection/gshbd_intro_001.json</LogicalName>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Content\sprites\WeaponCollection\gshbd_intro_001.png">
-      <LogicalName>Content/sprites/WeaponCollection/gshbd_intro_001.png</LogicalName>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Content\sprites\WeaponCollection\gshbd_intro_002.json">
-      <LogicalName>Content/sprites/WeaponCollection/gshbd_intro_002.json</LogicalName>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Content\sprites\WeaponCollection\gshbd_intro_002.png">
-      <LogicalName>Content/sprites/WeaponCollection/gshbd_intro_002.png</LogicalName>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Content\sprites\WeaponCollection\gshbd_intro_003.json">
-      <LogicalName>Content/sprites/WeaponCollection/gshbd_intro_003.json</LogicalName>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Content\sprites\WeaponCollection\gshbd_intro_003.png">
-      <LogicalName>Content/sprites/WeaponCollection/gshbd_intro_003.png</LogicalName>
     </EmbeddedResource>
     <EmbeddedResource Include="Content\etgmod\gui\icon_api.png">
       <LogicalName>Content/etgmod/gui/icon_api.png</LogicalName>

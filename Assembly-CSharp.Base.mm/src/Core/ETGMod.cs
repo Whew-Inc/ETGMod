@@ -151,9 +151,6 @@ public static partial class ETGMod {
     public static void Start() {
         ETGModGUI.Start();
 
-        TestGunController.Add();
-        // BalloonGunController.Add();
-
         dfInputManager manager = GameUIRoot.Instance.Manager.GetComponent<dfInputManager>();
         manager.Adapter = new SGUIDFInput(manager.Adapter);
 
