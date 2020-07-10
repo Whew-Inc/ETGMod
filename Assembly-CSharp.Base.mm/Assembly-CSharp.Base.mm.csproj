@@ -238,9 +238,6 @@
     <EmbeddedResource Include="Content\test\texture.png">
       <LogicalName>Content/test/texture.png</LogicalName>
     </EmbeddedResource>
-    <EmbeddedResource Include="Content\etgmod\logo.png">
-      <LogicalName>Content/etgmod/logo.png</LogicalName>
-    </EmbeddedResource>
     <EmbeddedResource Include="Content\etgmod\gui\icon_api.png">
       <LogicalName>Content/etgmod/gui/icon_api.png</LogicalName>
     </EmbeddedResource>
