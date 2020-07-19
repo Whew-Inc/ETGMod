@@ -4,6 +4,8 @@ This is a modified version of the original API base mod, without the added conte
 
 # MAKE A BACKUP OF YOUR SAVE FILES AND ENTER THE GUNGEON GAME FOLDER JUST IN CASE
 
+(No need to uninstall MtG or any mods)
+
 Download the GUI installer (https://modthegungeon.eu/ or https://github.com/ModTheGungeon/ETGMod.Installer/releases)
 
 Download the cleaned up base (https://github.com/Whew-Inc/ETGModClean/releases/ "ETGMODCLEAN.zip")
