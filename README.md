@@ -1,8 +1,8 @@
 This is a modified version of the original API base mod, without the added content like test gun, balloon gun, "obey" image in the breach, etc.
 
-# MAKE A BACKUP OF YOUR SAVE FILES AND ENTER THE GUNGEON GAME FOLDER JUST IN CASE
-
 # How to install / use
+
+# MAKE A BACKUP OF YOUR SAVE FILES AND ENTER THE GUNGEON GAME FOLDER JUST IN CASE
 
 Download the GUI installer (https://modthegungeon.eu/ or https://github.com/ModTheGungeon/ETGMod.Installer/releases)
 
